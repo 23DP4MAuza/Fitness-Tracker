@@ -882,7 +882,8 @@ public class FitBroApp {
                             if (line.startsWith("Weight:")) {
                                 weight = Double.parseDouble(line.substring(7).trim());
                             } else if (line.startsWith("Waist:")) {
-                                waist = Double.parseDouble(line.substring(6).trim());
+                                waist = Double.parseDouble(line.substring(6).trim());git push origin main
+
                             } else if (line.startsWith("Chest:")) {
                                 chest = Double.parseDouble(line.substring(6).trim());
                             }
