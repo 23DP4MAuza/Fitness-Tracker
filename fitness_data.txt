@@ -1,27 +1,13 @@
+--- 08.05.2025 20:32 ---
+--- Workouts ---
+benchpress,30,10,10,4
+rdl,30,10,4,3
+squats,30,10,8,2
+leg extensions,30,10,8,3
 
---- 25.04.2025 10:08 New Entry ---
---- Workout Logs ---
-Squat,30,10,10,3
-benchpress,30,10,8,3
-deadlift,20,10,10,3
+--- Goals ---
 
---- Fitness Goals ---
-lose weight - Status: completed
-  Description: from 90 kg to 80kg
-
---- Personal Stats ---
-Weight: 90.0 kg
-Waist: 30.0 cm
-Chest: 30.0 cm
-
---- 25.04.2025 10:09 New Entry ---
---- Workout Logs ---
-pec flies,23,10,8,3
-incline press,23,10,8,3
-
---- Fitness Goals ---
-
---- Personal Stats ---
-Weight: 91.0 kg
-Waist: 30.0 cm
-Chest: 30.0 cm
+--- Stats ---
+Weight:95.0
+Waist:30.0
+Chest:20.0
